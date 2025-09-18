@@ -1,4 +1,5 @@
 #Ecomx
+
 EcomX is a full-stack MERN e-commerce application for Men, Women & Kids clothing. 
 
 <img width="944" height="416" alt="Screenshot 2025-09-18 172750" src="https://github.com/user-attachments/assets/0d05cdbb-e366-4d52-aafb-b0d316c67279" />
